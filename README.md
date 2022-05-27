@@ -1,7 +1,7 @@
 # Proiect PLF
 
 ### Projects Portfolio - BETA
-Un site portofoliu pentru proiectele unei echipe. Fiecare utilizator poate adauga un proiect informatii despre acesta.
+Un site portofoliu pentru proiectele unei echipe. Fiecare utilizator poate adauga un proiect.
 
 #### Pagini:
 ###### 1. SignIn

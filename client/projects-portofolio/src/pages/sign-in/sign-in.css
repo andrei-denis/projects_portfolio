@@ -1,0 +1,4 @@
+.form-signin{
+    transform: translate(0, -30%);
+    max-width: 330px !important;
+}
